@@ -1,0 +1,9 @@
+pyTelegramBotAPI==4.14.0
+
+openai>=1.50.0
+
+schedule
+
+pytz
+
+flask
